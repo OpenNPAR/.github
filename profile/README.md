@@ -2,8 +2,6 @@
 
 ### Open Non-Photorealistic Animation & Rendering
 
-[![Status: Active](https://img.shields.io/badge/Status-Active-success.svg)]()
-
 **OpenNPAR** is an open-source initiative dedicated to the "archaeology," preservation, and modern implementation of Non-Photorealistic Rendering (NPR) algorithms.
 
 ---
