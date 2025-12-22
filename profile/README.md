@@ -15,6 +15,6 @@ While we are inspired by their vision of a unified system for NPR, this project 
 ### 🛠️ The Stack
 
 Implementations in this organization focus on modern accessibility while preserving the original algorithms. You can expect to find:
-* **Languages:** C++, Python, GDScript, GLSL/HLSL
-* **Engines/Frameworks:** Godot Engine, OpenGL, Vulkan
+* **Languages:** C++, Python, GDScript, GLSL/HLSL, WGSL
+* **Engines/Frameworks:** Godot Engine, OpenGL, Vulkan, WebGPU
 * **Docs:** Detailed breakdowns of *how* the algorithms work, not just the code.
